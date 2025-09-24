@@ -7,3 +7,4 @@ if (isNaN(y)) {
 } else {
         console.log(y + " IS a number");
 }
+process.stdout.write
